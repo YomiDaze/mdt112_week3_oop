@@ -247,11 +247,11 @@ namespace oop
             Console.ReadLine();
             */
 
-            /*
+            
             Vector2 u = new Vector2(1.0f, 0.5f);
             Console.WriteLine(u);
             Console.ReadLine();
-            */
+            
         }
     }
 }
